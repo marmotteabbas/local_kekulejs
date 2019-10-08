@@ -1,0 +1,18 @@
+.KekuleMoodle-Widget-Data-Wrapper
+{
+
+}
+.KekuleMoodle-Widget-Data-Wrapper .KekuleMoodle-Widget-Data
+{
+    display: none;
+}
+
+.K-Chem-Viewer
+{
+    background-color: transparent;
+    vertical-align: middle;
+}
+
+.K-Chem-Obj-Setter-Toolbar-Area {
+	height: 40px;
+}
