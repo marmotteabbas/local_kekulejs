@@ -1,6 +1,6 @@
 # local_kekulejs
 It's a local plugin which contains the Kekule.js library and make it available on a moodle plateform.
 
-This library is a js librarie on MIT licence.
+This library is a js library on MIT licence.
 
 You can the official webiste ok kekule right here : http://partridgejiang.github.io/Kekule.js/
