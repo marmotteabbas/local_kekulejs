@@ -3,4 +3,4 @@ It's a local plugin which contains the Kekule.js library and make it available o
 
 This library is a js library on MIT licence.
 
-You can the official webiste ok kekule right here : http://partridgejiang.github.io/Kekule.js/
+You can visit the Kekule.js official webiste right here : http://partridgejiang.github.io/Kekule.js/
