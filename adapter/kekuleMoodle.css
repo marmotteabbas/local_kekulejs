@@ -16,3 +16,7 @@
 .K-Chem-Obj-Setter-Toolbar-Area {
 	height: 40px;
 }
+
+.K-TabView .K-TabView-TabButton-Container {
+    height: 28px;
+}
